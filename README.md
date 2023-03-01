@@ -1,2 +1,2 @@
-# ecommerce-back-end
+# Ecommerce Back End
 Module 13 challenge for bootcamp
